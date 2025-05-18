@@ -126,9 +126,6 @@ body {
   text-align: center;
   color: #434455;
 }
-.portfolio {
-  color: #e7e9fc;
-}
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -137,16 +134,16 @@ body {
   text-align: center;
 }
 .portfolio-list {
-  color: #e7e9fc;
+  background-color: #e7e9fc;
 }
 .portfolio-list-one {
-  color: #ffffff;
+  background-color: #ffffff;
 }
 .portfolio-list-two {
-  color: #ffffff;
+  background-color: #ffffff;
 }
 .portfolio-item {
-  color: #ffffff;
+  background-color: #ffffff;
 }
 .portfolio-picture {
   width: 360;
