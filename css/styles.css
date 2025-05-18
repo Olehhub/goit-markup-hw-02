@@ -11,8 +11,7 @@ body {
   letter-spacing: 0.03em;
   vertical-align: middle;
   text-transform: uppercase;
-  text-decoration: none;
-  color: #404bbf;
+  color: #4d5ae5;
 }
 .header-logo-second-part {
   font-family: Raleway, sans-serif;
@@ -30,7 +29,6 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-decoration: none;
 }
 .header-link:hover {
   font-weight: 500;
@@ -38,7 +36,6 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #404bbf;
-  text-decoration: none;
 }
 .header-link:active {
   font-weight: 500;
@@ -46,7 +43,6 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #404bbf;
-  text-decoration: none;
 }
 .header-address {
   font-style: normal;
@@ -56,7 +52,6 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #434455;
-  text-decoration: none;
   font-style: normal;
 }
 .header-address-link:hover {
@@ -64,7 +59,6 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #404bbf;
-  text-decoration: none;
   font-style: normal;
 }
 .header-address-link:active {
@@ -72,7 +66,6 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #404bbf;
-  text-decoration: none;
   font-style: normal;
 }
 .hero {
@@ -96,6 +89,15 @@ body {
   cursor: pointer;
 }
 .hero-button:hover {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  background-color: #404bbf;
+  cursor: pointer;
+}
+.hero-button:active {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
@@ -186,7 +188,6 @@ body {
   letter-spacing: 0.03em;
   vertical-align: middle;
   text-transform: uppercase;
-  text-decoration: none;
   color: #4d5ae5;
 }
 .footer-logo-second-part {
