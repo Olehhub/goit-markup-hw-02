@@ -29,6 +29,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
+  color: #2e2f42;
   text-decoration: none;
 }
 .header-link:hover {
@@ -47,6 +48,9 @@ body {
   color: #404bbf;
   text-decoration: none;
 }
+.header-address {
+  font-style: normal;
+}
 .header-address-link {
   font-size: 16px;
   line-height: 24px;
@@ -56,6 +60,14 @@ body {
   font-style: normal;
 }
 .header-address-link:hover {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #404bbf;
+  text-decoration: none;
+  font-style: normal;
+}
+.header-address-link:active {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
